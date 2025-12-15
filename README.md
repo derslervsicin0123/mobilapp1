@@ -1,7 +1,7 @@
 # Uygulama nasıl çalıştırılır?
 
 
-**1 -** Ödev dosyalarını klonlayın.  
+**1 -** Ödev dosyalarını indirin.  
 **2 -** Terminali (CMD gibi) açın.  
 **3 -** Dosya dizinini ödevin olduğu klasöre ayarlayın.  
 **4 -** npm install komutunu uygulayın.  
